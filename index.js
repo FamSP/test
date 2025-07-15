@@ -1,14 +1,1 @@
 console.log("Hello World");
-asdasdasfdsfsdfdsgdksnlskgmslgmsapgs;
-WebGLShaderPrecisionFormatgdfsgdfsgasgls;
-MessageChannel;
-MediaSession;
-kgadsgsl;
-fks;
-kfl;
-asdklg;
-ls;
-globalThis;
-globalThis;
-SVGAElements;
-s;
